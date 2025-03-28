@@ -32,7 +32,7 @@
 1. Clone repo:
 
 ```bash
-git clone <https://github.com/yourusername/fastapi-blog.git>
+git clone https://github.com/Adam-445/fastapi-endtoend
 cd fastapi-blog
 
 ```
